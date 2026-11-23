@@ -2,3 +2,6 @@ nama : Nur
 kos parakarakah
 kampus upi
 
+login aksa
+-nama
+-password
